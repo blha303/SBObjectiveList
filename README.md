@@ -1,10 +1,10 @@
 SBObjectiveList
----------------
+===============
 
 This plugin adds a command to allow a player or the console to list all objectives on the main scoreboard.
 
 Commands
-========
+--------
 * **/sbobjlist [pagenumber]** (*sbobjlist.use*) - Shows the full list of objectives and player scores, or only a specific page number if specified. - Aliases: **/sblist**, **/sbl**
 
 Links
