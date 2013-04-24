@@ -1,0 +1,9 @@
+name: ${project.name}
+main: ${project.groupId}.${project.artifactId}.${project.name}
+version: ${project.version}
+author: blha303
+commands:
+  sbobjlist:
+    description: List objectives
+    usage: /sbobjlist <pagenumber>
+    aliases: [sblist, sbl]
